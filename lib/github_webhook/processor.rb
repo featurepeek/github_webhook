@@ -36,6 +36,7 @@ module GithubWebhook::Processor
     issue_comment
     issues
     label
+    marketplace_purchase
     member
     membership
     milestone
